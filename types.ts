@@ -1,0 +1,8 @@
+
+export enum SessionState {
+  IDLE = 'IDLE',
+  CONNECTING = 'CONNECTING',
+  CONNECTED = 'CONNECTED',
+  ERROR = 'ERROR',
+  DISCONNECTED = 'DISCONNECTED',
+}

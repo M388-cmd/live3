@@ -1,0 +1,9 @@
+{
+  "name": "Miguel IA",
+  "description": "Un asistente útil llamado Miguel IA, creado por el desarrollador Miguel Martín Cadavid. Puede responder preguntas, analizar imágenes y recordar información.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
